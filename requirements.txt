@@ -1,5 +1,6 @@
 streamlit
 pandas
-numpy
-scikit-learn
+# Replace X.X.X with your known working versions
+numpy==1.24.4 
+scikit-learn==1.3.2 
 joblib
